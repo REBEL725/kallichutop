@@ -53,7 +53,8 @@ python3 main.py
 - `API_HASH`
 - `SESSION` - A Pyrogram String Session. Get one from [Here](https://replit.com/@KennedyProject/String-Session)
 - `HNDLR` - Your Userbot Handler (Default is !)
-
+- `BOT_TOKEN - Make A Bot From @BotFather and paste it's token.
+- `BOT_USERNAME - Get the username of that Bot made from @Botfather
 
 ## Commands and Usage
 1) Start the Userbot, check if the Userbot is running by `!ping`.
